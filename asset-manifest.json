@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/bacbuiv/bacbuiv.git/static/css/main.ab459ccf.css",
+    "main.js": "/bacbuiv/bacbuiv.git/static/js/main.c4d4d857.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bacbuiv/bacbuiv.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/poster-slide-4-04.png": "/bacbuiv/bacbuiv.git/static/media/poster-slide-4-04.456d76eed3b5172613b8.png",
+    "static/media/poster-slide-3-04.png": "/bacbuiv/bacbuiv.git/static/media/poster-slide-3-04.1a75bd49909ecc029983.png",
+    "static/media/poster-slide-1-04.png": "/bacbuiv/bacbuiv.git/static/media/poster-slide-1-04.cf33b928750d5ef7b906.png",
+    "static/media/poster-slide-2-04.png": "/bacbuiv/bacbuiv.git/static/media/poster-slide-2-04.a993d6824ff8fc10a1a6.png",
+    "static/media/fast-01.svg": "/bacbuiv/bacbuiv.git/static/media/fast-01.51eba223957a59f9eb7e8eccef72d5af.svg",
+    "static/media/legit-01.svg": "/bacbuiv/bacbuiv.git/static/media/legit-01.bc36f8762130dbe07cc3e24cec191867.svg",
+    "static/media/cheap-01.svg": "/bacbuiv/bacbuiv.git/static/media/cheap-01.167de07dbc022f1fef72b97da2f7a5db.svg",
+    "static/media/location-poster-03.png": "/bacbuiv/bacbuiv.git/static/media/location-poster-03.7f7115ac881a048202b0.png",
+    "static/media/new-tag-01.png": "/bacbuiv/bacbuiv.git/static/media/new-tag-01.ecd97cc4adce16ad32c6.png",
+    "static/media/prd-5.png": "/bacbuiv/bacbuiv.git/static/media/prd-5.2d5fed68e8281c4b223a.png",
+    "static/media/poster-sidebar.jpeg": "/bacbuiv/bacbuiv.git/static/media/poster-sidebar.49e43abd81e9272860dd.jpeg",
+    "static/media/prd-2.jpeg": "/bacbuiv/bacbuiv.git/static/media/prd-2.607e1557d4f397e63a46.jpeg",
+    "static/media/prd-1.jpeg": "/bacbuiv/bacbuiv.git/static/media/prd-1.abc481bca2d8967d9f40.jpeg",
+    "static/media/prd-4.jpeg": "/bacbuiv/bacbuiv.git/static/media/prd-4.2e1d9f834c3ae15fe5ad.jpeg",
+    "static/media/sale-01.png": "/bacbuiv/bacbuiv.git/static/media/sale-01.252110bdcbfe312c20af.png",
+    "static/media/prd-3.jpeg": "/bacbuiv/bacbuiv.git/static/media/prd-3.45a41d18a37497c22502.jpeg",
+    "static/media/no-image.svg": "/bacbuiv/bacbuiv.git/static/media/no-image.e6ce7d47ad7e77578a50e6eb62e9233d.svg",
+    "static/media/logo-web.svg": "/bacbuiv/bacbuiv.git/static/media/logo-web.e09b5f7f592b673672dfb5cd8a58449a.svg",
+    "index.html": "/bacbuiv/bacbuiv.git/index.html",
+    "main.ab459ccf.css.map": "/bacbuiv/bacbuiv.git/static/css/main.ab459ccf.css.map",
+    "main.c4d4d857.js.map": "/bacbuiv/bacbuiv.git/static/js/main.c4d4d857.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bacbuiv/bacbuiv.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab459ccf.css",
+    "static/js/main.c4d4d857.js"
+  ]
+}
